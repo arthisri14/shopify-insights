@@ -15,7 +15,7 @@ This project is a Python-based FastAPI web application that extracts brand-relat
 ---
 
 ##  Folder Structure
-
+```bash
 shopify_insights/
 ├── main.py # FastAPI application
 ├── scraper/
@@ -32,8 +32,7 @@ shopify_insights/
 ├── requirements.txt
 └── README.md
 
-
----
+```
 
 ## ⚙ Setup Instructions
 
